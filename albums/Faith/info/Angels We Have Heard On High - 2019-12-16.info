@@ -1,9 +1,9 @@
 ## Angels We Have Heard On High (Gloria) *(3:34)*
 written early 1900s by Edward Shippen Barnes
-released Dec 16, 2019
-Background: https://dianaleaghmatthews.com/angels-we-have-heard-on-high/
-Background: https://en.wikipedia.org/wiki/Angels_We_Have_Heard_on_High
-Recording: https://www.youtube.com/watch?v=WHWqj6gKS9g
-Link: https://www.youtube.com/watch?v=A4MpHadpQZo
+- Background: https://dianaleaghmatthews.com/angels-we-have-heard-on-high/
+- Background: https://en.wikipedia.org/wiki/Angels_We_Have_Heard_on_High
+- Recording: https://www.youtube.com/watch?v=WHWqj6gKS9g
+- Link: https://www.youtube.com/watch?v=A4MpHadpQZo
 - ffmpeg options: `-ss 00:00:02.0 -t 00:03:34.4`
+- released Dec 16, 2019
 
