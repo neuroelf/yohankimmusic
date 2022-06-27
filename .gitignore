@@ -1,0 +1,4 @@
+# exclude all downloaded binary files
+**/*.m4a
+**/*.mp3
+
