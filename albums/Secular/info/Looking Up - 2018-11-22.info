@@ -1,0 +1,7 @@
+## Looking Up *(3:15)*
+written 1989 by Michel Petrucciani
+released Nov 22, 2018
+Original: https://www.youtube.com/watch?v=gD6GAS5CZtQ
+Link: https://www.youtube.com/watch?v=qR-qwGUSDB0
+- ffmpeg options: `-ss 00:00:01.9 -t 00:03:15.8`
+

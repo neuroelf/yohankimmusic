@@ -1,0 +1,8 @@
+## Hymn To Freedom (2022) *(4:03)*
+written 1962 by Oscar Peterson
+released Jun 19, 2022
+Background: https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album)
+Recording: https://www.youtube.com/watch?v=tCrrZ1NnCuM
+Link: https://www.youtube.com/watch?v=WmKlkMGMknw
+- ffmpeg options: `-ss 00:00:01.4 -t 00:04:03.5`
+
