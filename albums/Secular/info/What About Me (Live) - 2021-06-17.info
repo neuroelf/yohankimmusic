@@ -1,9 +1,10 @@
 ## What About Me? *(6:01)*
 written 2013 by ? for Snarky Puppy
-released Jun 17, 2021
-Info: https://en.wikipedia.org/wiki/We_Like_It_Here
-Original: https://www.youtube.com/watch?v=fuhHU_BZXSk
-Alternative: https://www.youtube.com/watch?v=r9OC1B5z2GM
-Link: https://www.youtube.com/watch?v=6Qgd68TdzRY
+- Background: https://en.wikipedia.org/wiki/We_Like_It_Here
+- Original: https://www.youtube.com/watch?v=fuhHU_BZXSk
+- Link: https://www.youtube.com/watch?v=6Qgd68TdzRY
 - ffmpeg options: `-ss 00:00:02.7 -t 00:06:01.5`
+- released Jun 17, 2021
+- Alternative: https://www.youtube.com/watch?v=r9OC1B5z2GM (One Man Band version)
+  - released Oct 31, 2019
 

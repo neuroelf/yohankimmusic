@@ -1,8 +1,8 @@
 ## My Universe *(2:50)*
 written 2021 by Guy Berryman (for Coldplay, featuring BTS)
-released Oct 02, 2021
-Regular video: https://www.youtube.com/watch?v=3YqPKLZF_WU
-Lyrics video: https://www.youtube.com/watch?v=bZYPI4mYwhw
-Link: https://www.youtube.com/watch?v=97X4GE7UFU0
+- Original: https://www.youtube.com/watch?v=3YqPKLZF_WU
+- Lyrics video: https://www.youtube.com/watch?v=bZYPI4mYwhw
+- Link: https://www.youtube.com/watch?v=97X4GE7UFU0
 - ffmpeg options: `-ss 00:00:03.8 -t 00:02:50.0`
+- released Oct 02, 2021
 

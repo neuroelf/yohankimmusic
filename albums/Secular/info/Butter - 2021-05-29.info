@@ -1,8 +1,8 @@
 ## Butter *(2:37)*
 written 2021 by Jenna Andrews (et al, for BTS) 2021
-released May 29, 2021
-Background: https://en.wikipedia.org/wiki/Butter_(song)
-Original: https://www.youtube.com/watch?v=WMweEpGlu_U
-Link: https://www.youtube.com/watch?v=31wQrNCDN6A
+- Background: https://en.wikipedia.org/wiki/Butter_(song)
+- Original: https://www.youtube.com/watch?v=WMweEpGlu_U
+- Link: https://www.youtube.com/watch?v=31wQrNCDN6A
 - ffmpeg options: `-ss 00:00:02.4 -t 00:02:37.8`
+- released May 29, 2021
 
