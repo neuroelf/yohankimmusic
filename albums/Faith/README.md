@@ -216,7 +216,7 @@ written 2012 by Israel Houghton
 - ffmpeg options: `-t 00:03:55.0`
 - released Jan 10, 2020
 
-## Jesus Love Me *(4:00)*
+## Jesus Loves Me *(4:00)*
 written 1859 by Anna Bartlett Warner (lyrics) and 1862 by William Batchelder Bradbury (music)
 - Background: https://en.wikipedia.org/wiki/Jesus_Loves_Me
 - Recording: https://www.youtube.com/watch?v=LD1_CPqJusg
