@@ -62,7 +62,7 @@ written 2017 for Brave Girls
 written 2021 by Jenna Andrews (et al, for BTS) 2021
 - Background: https://en.wikipedia.org/wiki/Butter_(song)
 - Original: https://www.youtube.com/watch?v=WMweEpGlu_U
-- Link: https://www.youtube.com/watch?v=31wQrNCDN6A
+- Link: https://www.youtube.com/watch?v=31wQrNCDN6A (unlisted)
 - ffmpeg options: `-ss 00:00:02.4 -t 00:02:37.8`
 - released May 29, 2021
 
@@ -90,7 +90,7 @@ written 2021 by Yohan Kim
 written 2020 by David Stewart (for BTS)
 - Background: https://en.wikipedia.org/wiki/Dynamite_(BTS_song)
 - Original: https://www.youtube.com/watch?v=gdZLi9oWNZg
-- Link: https://www.youtube.com/watch?v=OyscWjkiMAo
+- Link: https://www.youtube.com/watch?v=OyscWjkiMAo (unlisted)
 - ffmpeg options: `-t 00:03:28.5`
 - released Sep 04, 2020
 
@@ -98,7 +98,7 @@ written 2020 by David Stewart (for BTS)
 written 2017 by Jordan Young (et al, for BTS)
 - Background: https://en.wikipedia.org/wiki/Euphoria_(BTS_song)
 - Original: https://www.youtube.com/watch?v=5BdSZkY6F4M
-- Link: https://www.youtube.com/watch?v=IzD-QKFrDaE
+- Link: https://www.youtube.com/watch?v=IzD-QKFrDaE (unlisted)
 - ffmpeg options: ``
 - released Nov 09, 2018
 
