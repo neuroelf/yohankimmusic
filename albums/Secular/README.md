@@ -106,7 +106,7 @@ written 2017 by Jordan Young (et al, for BTS)
 written 1985 by Tears For Fears
 - Background: https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World
 - Original: https://www.youtube.com/watch?v=SFU1GeGFpzY
-- Link: https://www.youtube.com/watch?v=SKqVFoweTEo
+- Link: <strike>https://www.youtube.com/watch?v=SKqVFoweTEo</strike> (video removed)
 - ffmpeg options: `-t 00:04:14.0`
 - released Apr 05, 2022
 
@@ -278,7 +278,7 @@ written 2022 by Yohan Kim
 written 2021 by Guy Berryman (for Coldplay, featuring BTS)
 - Original: https://www.youtube.com/watch?v=3YqPKLZF_WU
 - Lyrics video: https://www.youtube.com/watch?v=bZYPI4mYwhw
-- Link: https://www.youtube.com/watch?v=97X4GE7UFU0
+- Link: https://www.youtube.com/watch?v=97X4GE7UFU0 (unlisted)
 - ffmpeg options: `-ss 00:00:03.8 -t 00:02:50.0`
 - released Oct 02, 2021
 
