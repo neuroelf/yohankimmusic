@@ -106,7 +106,7 @@ written 2017 by Jordan Young (et al, for BTS)
 written 1985 by Tears For Fears
 - Background: https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World
 - Original: https://www.youtube.com/watch?v=SFU1GeGFpzY
-- Link: <strike>https://www.youtube.com/watch?v=SKqVFoweTEo</strike> (video removed)
+- Link: <strike>https://www.youtube.com/watch?v=SKqVFoweTEo</strike> (now private)
 - ffmpeg options: `-t 00:04:14.0`
 - released Apr 05, 2022
 
